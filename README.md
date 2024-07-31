@@ -16,7 +16,7 @@ The objective was to leverage Power BI to create visualizations that depict how 
 1. **Data Acquisition**: I imported a comprehensive dataset on life expectancy from a reputable global health source into Power BI.
 2. **Data Preparation**: Cleaned and transformed the data within Power BI to ensure it was ready for analysis. This involved handling any missing values and ensuring data consistency.
 3. **Visualization**:
-   - **Bar Chart**: Created a bar chart to showcase the top 10 countries with the highest and lowest life expectancy. This visualization helps highlight the extremes and allows for easy comparison between countries.
+   - **Bar Chart**: Created a bar chart to showcase the top 20 countries with the highest and lowest life expectancy. This visualization helps highlight the extremes and allows for easy comparison between countries.
    - **Histogram**: Designed a histogram to display the distribution of life expectancy across all countries. This provided a visual representation of how life expectancy is spread and the common range for most countries.
 
 ### **Tools and Techniques**
